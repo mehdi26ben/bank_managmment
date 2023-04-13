@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\bin\Debug\PojetCours.exe.config
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\bin\Debug\PojetCours.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\bin\Debug\PojetCours.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\obj\Debug\PojetCours.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\obj\Debug\PojetCours.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\obj\Debug\PojetCours.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\obj\Debug\PojetCours.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\obj\Debug\WindowsFormsApplication1.client.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\obj\Debug\WindowsFormsApplication1.operation.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\obj\Debug\WindowsFormsApplication1.crys_report.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\obj\Debug\WindowsFormsApplication1.menu.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\PojetCours\PojetCours\obj\Debug\WindowsFormsApplication1.report_all.resources
